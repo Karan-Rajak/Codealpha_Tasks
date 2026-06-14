@@ -123,7 +123,7 @@ Bot: Goodbye! Have a great day. 👋
 
 **[Karan kumar]**
 Python Programming Intern — CodeAlpha
-GitHub: [github.com/yourusername](https://github.com/yourusername)
+GitHub: [github.com/Karan-Rajak](https://github.com/Karan-Rajak)
 
 ---
 
