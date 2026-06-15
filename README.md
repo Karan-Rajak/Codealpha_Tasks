@@ -45,8 +45,8 @@ CodeAlpha_ProjectName/
 
 **1. Clone the repository:**
 ```bash
-git clone https://github.com/yourusername/CodeAlpha_ProjectName.git
-cd CodeAlpha_ProjectName
+git clone https://github.com/Karan-Rajak/CodeAlpha_Tasks/Chatbot.py.git
+cd CodeAlpha_Tasks/Chatbot.py
 ```
 
 **2. Run the script:**
