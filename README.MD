@@ -1,16 +1,16 @@
-# 🤖 CodeBot — Basic Chatbot
+# CodeBot — Basic Chatbot
 
 > **CodeAlpha Python Programming Internship — Task 4**
 
 ---
 
-## 📋 Project Overview
+## Project Overview
 
 CodeBot is a simple rule-based chatbot built using Python. It takes user input from the console and responds with predefined replies based on keyword matching. This project was built as part of the **CodeAlpha Python Internship** to demonstrate understanding of functions, conditionals, loops, and basic input/output in Python.
 
 ---
 
-## ✨ Features
+## Features
 
 - Greets the user and responds to common phrases
 - Handles unrecognized input gracefully
@@ -20,7 +20,7 @@ CodeBot is a simple rule-based chatbot built using Python. It takes user input f
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Tool       | Details              |
 |------------|----------------------|
@@ -30,7 +30,7 @@ CodeBot is a simple rule-based chatbot built using Python. It takes user input f
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 CodeAlpha_ProjectName/
@@ -41,7 +41,7 @@ CodeAlpha_ProjectName/
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 **1. Clone the repository:**
 ```bash
@@ -58,7 +58,7 @@ python chatbot.py
 
 ---
 
-## 💬 Sample Conversation
+## Sample Conversation
 
 ```
 =============================================
@@ -78,13 +78,13 @@ You: what is your name
 Bot: I'm CodeBot, a simple chatbot created as part of the CodeAlpha internship!
 
 You: bye
-Bot: Goodbye! Have a great day. 👋
+Bot: Goodbye! Have a great day.
 =============================================
 ```
 
 ---
 
-## 🧠 Key Concepts Used
+## Key Concepts Used
 
 - `if-elif-else` conditionals
 - Functions and docstrings
@@ -95,7 +95,7 @@ Bot: Goodbye! Have a great day. 👋
 
 ---
 
-## 📌 Supported Inputs
+## Supported Inputs
 
 | User Says                        | Bot Responds                              |
 |----------------------------------|-------------------------------------------|
@@ -110,7 +110,7 @@ Bot: Goodbye! Have a great day. 👋
 
 ---
 
-## 🚀 Future Improvements
+## Future Improvements
 
 - Add more conversation topics
 - Integrate NLP libraries like `nltk` or `spacy`
@@ -119,7 +119,7 @@ Bot: Goodbye! Have a great day. 👋
 
 ---
 
-## 👤 Author
+## Author
 
 **[Karan kumar]**
 Python Programming Intern — CodeAlpha
