@@ -59,7 +59,7 @@ def main():
             response = get_response(user_input)
 
             if response == "EXIT":
-                print("Bot: Goodbye! Have a great day. 👋")
+                print("Bot: Goodbye! Have a great day. ")
                 print("=" * 45)
                 break
 
